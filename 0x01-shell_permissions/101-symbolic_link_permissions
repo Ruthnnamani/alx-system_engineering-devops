@@ -1,3 +1,2 @@
 #!/bin/bash
-chmod +x change_ownership_hello.sh
-
+chmod +x chown_hello.sh
