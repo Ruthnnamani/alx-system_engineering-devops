@@ -1,2 +1,3 @@
 #!/bin/bash
-chown vincent:staff _hello
+chmod +x change_ownership_hello.sh
+
